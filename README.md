@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anything dotnet related.
 - 📫 How to reach me :
 > - Email: mosoftwareenterprises @ that giant google mail place .com
-> - Twitter: [@MicbOliver](https://twitter.com/MicbOliver)
+> - Bluesky: [@markolver.website](https://bsky.app/profile/devdottalk.uk)
 
 <!---
 mosoftwareenterprises/mosoftwareenterprises is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
