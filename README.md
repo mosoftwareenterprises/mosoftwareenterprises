@@ -4,7 +4,7 @@
 - I'm documenting my thoughts on all the things I learn in life and dotnet on my blog here https://blog.markoliver.website/
 - 💞️ I’m looking to collaborate on anything dotnet related.
 - 📫 How to reach me :
-> - Email: mosoftwareenterprises @ that giant google mail place .com
+> - Email: mosoftwareenterprises@markoliver.website
 > - Bluesky: [@markolver.website](https://bsky.app/profile/devdottalk.uk)
 
 <!---
